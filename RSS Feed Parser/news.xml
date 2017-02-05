@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title> : Montreal</title>
+	<atom:link href="http://globalnews.ca/montreal/feed/" rel="self" type="application/rss+xml" />
+	<link>http://globalnews.ca</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Feb 2017 21:18:39 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='globalnews.ca' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://1.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=96&#038;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Montreal &#8211; Global News</title>
+		<link>http://globalnews.ca</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://globalnews.ca/osd.xml" title="Global News" />
+	<atom:link rel='hub' href='http://globalnews.ca/?pushpress=hub'/>
+	<item>
+		<title>McGill &#8216;research-a-thon&#8217; takes aim at Trump travel ban</title>
+		<link>http://globalnews.ca/news/3227771/mcgill-research-a-thon-takes-aim-at-trump-travel-ban/</link>
+		<comments>http://globalnews.ca/news/3227771/mcgill-research-a-thon-takes-aim-at-trump-travel-ban/#respond</comments>
+		<pubDate>Sat, 04 Feb 2017 20:24:17 +0000</pubDate>
+		<dc:creator><![CDATA[Billy Shields]]></dc:creator>
+				<category><![CDATA[Canada]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ban]]></category>
+		<category><![CDATA[CCR]]></category>
+		<category><![CDATA[Country]]></category>
+		<category><![CDATA[Janet Dench]]></category>
+		<category><![CDATA[Muslim]]></category>
+		<category><![CDATA[Rachelle Bastarache]]></category>
+		<category><![CDATA[Safe Third Country Agreement]]></category>
+		<category><![CDATA[Trump travel ban]]></category>
+		<category><![CDATA[U.S. travel ban]]></category>
+
+		<guid isPermaLink="false">https://shawglobalnews.wordpress.com?p=3227771&#038;preview_id=3227771</guid>
+		<description><![CDATA[A movement started out of McGill is seeking to overturn a little-known asylum rule that could have major consequences in the midst of the U.S. travel ban.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227771&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[A movement started out of McGill is seeking to overturn a little-known asylum rule that could have major consequences in the midst of the U.S. travel ban.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227771&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://globalnews.ca/news/3227771/mcgill-research-a-thon-takes-aim-at-trump-travel-ban/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="https://shawglobalnews.files.wordpress.com/2017/02/wp-1486235559082.jpeg?quality=70&#038;strip=all&#038;w=720&#038;h=405&#038;crop=1" length="27849000"  type="image/jpeg"/>
+		<media:thumbnail url="http://shawglobalnews.files.wordpress.com/2017/02/wp-1486235559082.jpeg?quality=70&#038;strip=all" />
+		<media:content url="http://shawglobalnews.files.wordpress.com/2017/02/wp-1486235559082.jpeg?quality=70&#038;strip=all" medium="image">
+			<media:title type="html">wp-1486235559082.jpeg</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5166971673529cf07d5499416a666533?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">billyshieldsglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Focus Montreal: Tribute to Quebec City</title>
+		<link>http://globalnews.ca/video/3227850/focus-montreal-tribute-to-quebec-city/</link>
+		<pubDate>Sat, 04 Feb 2017 19:55:28 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Orchard]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Human Interest]]></category>
+		<category><![CDATA[Quebec City Attack]]></category>
+		<category><![CDATA[quebec city mosque]]></category>
+		<category><![CDATA[Quebec City Mosque Shooting]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Sainte-Foy mosque]]></category>
+		<category><![CDATA[Social Issues]]></category>
+		<category><![CDATA[Web Exclusive]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/video/3227850/focus-montreal-tribute-to-quebec-city/</guid>
+		<description><![CDATA[Sat, Feb 4: Focus Montreal takes you on a journey of hope back through this week, to hear the voices of love and compassion united to fight hate in the wake of the Quebec City mosque attack.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227850&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Sat, Feb 4: Focus Montreal takes you on a journey of hope back through this week, to hear the voices of love and compassion united to fight hate in the wake of the Quebec City mosque attack.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227850&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+		<enclosure url="http://i0.wp.com/media.globalnews.ca/videostatic/487/343/FOCUS_MTL_4_FEB_4_2017_medium_16x9_848x480_870255683769.jpg?w=150&#038;quality=70&#038;strip=all" length="28003000"  type="image/jpeg"/>
+		<media:content url="http://1.gravatar.com/avatar/a872b6d4db3f44c7bc0515549f8e75c8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jamieorchardglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Focus Montreal: &#8216;The Great Spin&#8217;</title>
+		<link>http://globalnews.ca/video/3227829/focus-montreal-the-great-spin/</link>
+		<pubDate>Sat, 04 Feb 2017 19:47:04 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Orchard]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Canadian Cancer Society]]></category>
+		<category><![CDATA[Cancer Fundraiser]]></category>
+		<category><![CDATA[Cancer Support]]></category>
+		<category><![CDATA[FranÃ§ois Gagnon]]></category>
+		<category><![CDATA[Human Interest]]></category>
+		<category><![CDATA[Mei-Lin Yee]]></category>
+		<category><![CDATA[The Great Spin]]></category>
+		<category><![CDATA[Web Exclusive]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/video/3227829/focus-montreal-the-great-spin/</guid>
+		<description><![CDATA[Sat, Feb 4: Cancer survivor Mei-Lin Yee and medical student FranÃ§ois Gagnon join senior anchor Jamie Orchard to discuss their reasons for taking part in the Canadian Cancer Society&#8217;s &#8220;Great Spin&#8221; fund raising challenge.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227829&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Sat, Feb 4: Cancer survivor Mei-Lin Yee and medical student FranÃ§ois Gagnon join senior anchor Jamie Orchard to discuss their reasons for taking part in the Canadian Cancer Society&#8217;s &#8220;Great Spin&#8221; fund raising challenge.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227829&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+		<enclosure url="http://i0.wp.com/media.globalnews.ca/videostatic/481/987/FOCUS_MTL_3_FEB_4_2017_medium_16x9_848x480_870254659960.jpg?w=150&#038;quality=70&#038;strip=all" length="27982000"  type="image/jpeg"/>
+		<media:content url="http://1.gravatar.com/avatar/a872b6d4db3f44c7bc0515549f8e75c8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jamieorchardglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Focus Montreal: EMSB launches STEAM Program</title>
+		<link>http://globalnews.ca/video/3227830/focus-montreal-emsb-launches-steam-program/</link>
+		<pubDate>Sat, 04 Feb 2017 19:42:45 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Orchard]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[EMSB]]></category>
+		<category><![CDATA[English Montreal School Board]]></category>
+		<category><![CDATA[Jennifer Lacroix]]></category>
+		<category><![CDATA[Quebec education]]></category>
+		<category><![CDATA[Science Games And Technology]]></category>
+		<category><![CDATA[Science In School]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Web Exclusive]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/video/3227830/focus-montreal-emsb-launches-steam-program/</guid>
+		<description><![CDATA[Sat, Feb 4: School teacher Jennifer Lacroix and student Julia Iadisernia join senior anchor Jamie Orchard to discuss the EMSB new STEAM program billed as the future of how to teach science to children.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227830&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Sat, Feb 4: School teacher Jennifer Lacroix and student Julia Iadisernia join senior anchor Jamie Orchard to discuss the EMSB new STEAM program billed as the future of how to teach science to children.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227830&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+		<enclosure url="http://i0.wp.com/media.globalnews.ca/videostatic/483/939/FOCUS_MTL_2_FEB_4_2017_medium_16x9_848x480_870254659805.jpg?w=150&#038;quality=70&#038;strip=all" length="27983000"  type="image/jpeg"/>
+		<media:content url="http://1.gravatar.com/avatar/a872b6d4db3f44c7bc0515549f8e75c8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jamieorchardglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Focus Montreal: Quebec City Mosque attack</title>
+		<link>http://globalnews.ca/video/3227833/focus-montreal-quebec-city-mosque-attack/</link>
+		<pubDate>Sat, 04 Feb 2017 19:30:52 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Orchard]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Chedley Belkhodja]]></category>
+		<category><![CDATA[Human Interest]]></category>
+		<category><![CDATA[mosque attack]]></category>
+		<category><![CDATA[Quebec City Mosque Attack]]></category>
+		<category><![CDATA[Quebec City Shooting]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Social Issues]]></category>
+		<category><![CDATA[Web Exclusive]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/video/3227833/focus-montreal-quebec-city-mosque-attack/</guid>
+		<description><![CDATA[Sat, Feb 4: Immigration specialist Chedley Belkhodja joins senior anchor Jamie Orchard to discuss the need for change in the political discourse in the wake of the Quebec City mosque attack.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227833&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Sat, Feb 4: Immigration specialist Chedley Belkhodja joins senior anchor Jamie Orchard to discuss the need for change in the political discourse in the wake of the Quebec City mosque attack.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227833&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+		<enclosure url="http://i0.wp.com/media.globalnews.ca/videostatic/480/1011/FOCUS_MTL_1_FEB_4_2017_medium_16x9_848x480_870251587825.jpg?w=150&#038;quality=70&#038;strip=all" length="27987000"  type="image/jpeg"/>
+		<media:content url="http://1.gravatar.com/avatar/a872b6d4db3f44c7bc0515549f8e75c8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jamieorchardglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Super Bowl weekend: A vulnerable time for gambling addicts</title>
+		<link>http://globalnews.ca/news/3225777/super-bowl-weekend-a-vulnerable-time-for-gambling-addicts/</link>
+		<comments>http://globalnews.ca/news/3225777/super-bowl-weekend-a-vulnerable-time-for-gambling-addicts/#respond</comments>
+		<pubDate>Sat, 04 Feb 2017 18:00:16 +0000</pubDate>
+		<dc:creator><![CDATA[Dani-Elle DubÃ©]]></dc:creator>
+				<category><![CDATA[Features]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Addiction]]></category>
+		<category><![CDATA[addictive gambling disorder]]></category>
+		<category><![CDATA[Arizona State point Shaving Operation]]></category>
+		<category><![CDATA[CAMH]]></category>
+		<category><![CDATA[Centre for Addiction and Mental Health]]></category>
+		<category><![CDATA[football betting]]></category>
+		<category><![CDATA[Gamblers Anonymous]]></category>
+		<category><![CDATA[Gambling addiction]]></category>
+		<category><![CDATA[gambling addiction help]]></category>
+		<category><![CDATA[gambling dependency]]></category>
+		<category><![CDATA[gambling habit]]></category>
+		<category><![CDATA[gambling problem]]></category>
+		<category><![CDATA[illegal gambling]]></category>
+		<category><![CDATA[joe gagliano]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Smart Living]]></category>
+		<category><![CDATA[Super Bowl]]></category>
+		<category><![CDATA[Super Bowl 51]]></category>
+		<category><![CDATA[super bowl gambling]]></category>
+		<category><![CDATA[super bowl gambling addiction]]></category>
+		<category><![CDATA[Super Bowl LI]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/?p=3225777</guid>
+		<description><![CDATA[Could you be addicted to gambling? <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3225777&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Could you be addicted to gambling? <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3225777&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://globalnews.ca/news/3225777/super-bowl-weekend-a-vulnerable-time-for-gambling-addicts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="https://shawglobalnews.files.wordpress.com/2017/02/football.jpg?quality=70&#038;strip=all&#038;w=720&#038;h=480&#038;crop=1" length="25934000"  type="image/jpeg"/>
+		<media:thumbnail url="http://shawglobalnews.files.wordpress.com/2017/02/football.jpg?quality=70&#038;strip=all" />
+		<media:content url="http://shawglobalnews.files.wordpress.com/2017/02/football.jpg?quality=70&#038;strip=all" medium="image">
+			<media:title type="html">American football Superbowl gambling</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/0d465f92e8de66cd20ded28d39ce85de?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">danielledube</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>We all live in a bubble. Here&#8217;s why you step out of it, according to experts</title>
+		<link>http://globalnews.ca/news/3225274/we-all-live-in-a-bubble-heres-why-you-step-out-of-it-according-to-experts/</link>
+		<comments>http://globalnews.ca/news/3225274/we-all-live-in-a-bubble-heres-why-you-step-out-of-it-according-to-experts/#respond</comments>
+		<pubDate>Sat, 04 Feb 2017 16:55:25 +0000</pubDate>
+		<dc:creator><![CDATA[Emanuela Campanella]]></dc:creator>
+				<category><![CDATA[Features]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[World]]></category>
+		<category><![CDATA[Comfort Zone]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Facebook censoring]]></category>
+		<category><![CDATA[Filter Bubble]]></category>
+		<category><![CDATA[Filter bubbles]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Living in a bubble]]></category>
+		<category><![CDATA[Living in online bubble]]></category>
+		<category><![CDATA[newsfeeds]]></category>
+		<category><![CDATA[Online Bubble]]></category>
+		<category><![CDATA[Social media filtering]]></category>
+		<category><![CDATA[Stepping out of comfort zone]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/?p=3225274</guid>
+		<description><![CDATA[We are living in an ideologically isolated and self-confirming online world, experts warn. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3225274&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[We are living in an ideologically isolated and self-confirming online world, experts warn. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3225274&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://globalnews.ca/news/3225274/we-all-live-in-a-bubble-heres-why-you-step-out-of-it-according-to-experts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="https://shawglobalnews.files.wordpress.com/2017/02/gettyimages-683755903.jpg?quality=70&#038;strip=all&#038;w=720&#038;h=480&#038;crop=1" length="26445000"  type="image/jpeg"/>
+		<media:thumbnail url="http://shawglobalnews.files.wordpress.com/2017/02/gettyimages-683755903.jpg?quality=70&#038;strip=all" />
+		<media:content url="http://shawglobalnews.files.wordpress.com/2017/02/gettyimages-683755903.jpg?quality=70&#038;strip=all" medium="image">
+			<media:title type="html">Cropped Image Of Hand Bursting A Bubble Against Black Backbround</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/f18decf0aa07cb6d9270d5c46e2561e9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">emacampanella</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Quebec City mosque reopens six days after deadly shooting</title>
+		<link>http://globalnews.ca/news/3227479/quebec-city-mosque-reopens-six-days-after-deadly-shooting/</link>
+		<comments>http://globalnews.ca/news/3227479/quebec-city-mosque-reopens-six-days-after-deadly-shooting/#respond</comments>
+		<pubDate>Sat, 04 Feb 2017 16:44:26 +0000</pubDate>
+		<dc:creator><![CDATA[Annabelle Olivier]]></dc:creator>
+				<category><![CDATA[Canada]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Centre Culturel Islamique]]></category>
+		<category><![CDATA[mosque shooting]]></category>
+		<category><![CDATA[quebec city mosque]]></category>
+		<category><![CDATA[Quebec City Mosque Shooting]]></category>
+		<category><![CDATA[Sainte-Foy mosque]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/?p=3227479</guid>
+		<description><![CDATA[Six days after a deadly attack, the Centre Islamique de Quebec in Quebec City was once again open to worshipers for morning prayers Saturday.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227479&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Six days after a deadly attack, the Centre Islamique de Quebec in Quebec City was once again open to worshipers for morning prayers Saturday.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227479&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://globalnews.ca/news/3227479/quebec-city-mosque-reopens-six-days-after-deadly-shooting/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="https://shawglobalnews.files.wordpress.com/2017/02/tva-mosque.jpg?quality=70&#038;strip=all&#038;w=720&#038;h=397&#038;crop=1" length="27650000"  type="image/jpeg"/>
+		<media:thumbnail url="http://shawglobalnews.files.wordpress.com/2017/02/tva-mosque.jpg?quality=70&#038;strip=all" />
+		<media:content url="http://shawglobalnews.files.wordpress.com/2017/02/tva-mosque.jpg?quality=70&#038;strip=all" medium="image">
+			<media:title type="html">tva-mosque</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/7c99cbaa80f94c6eba0b1b5bdf465771?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">annabelleolivierglobal</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Vigil for Montreal mosque vandalized after Quebec City attack</title>
+		<link>http://globalnews.ca/video/3227304/vigil-for-montreal-mosque-vandalized-after-quebec-city-attack-2/</link>
+		<pubDate>Sat, 04 Feb 2017 04:35:55 +0000</pubDate>
+		<dc:creator><![CDATA[Navneet Pall]]></dc:creator>
+				<category><![CDATA[Alexandre Bissonnette]]></category>
+		<category><![CDATA[centre culturel islamique de quebec]]></category>
+		<category><![CDATA[Global News At 11]]></category>
+		<category><![CDATA[Mosque]]></category>
+		<category><![CDATA[mosque crime]]></category>
+		<category><![CDATA[mosque shooting]]></category>
+		<category><![CDATA[mosquee de quebec]]></category>
+		<category><![CDATA[mosquee quebec]]></category>
+		<category><![CDATA[Quebec City]]></category>
+		<category><![CDATA[Quebec City Mosque Attack]]></category>
+		<category><![CDATA[Quebec City Mosque Shooting]]></category>
+		<category><![CDATA[Quebec City Shooting]]></category>
+		<category><![CDATA[Quebec politics]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/video/3227304/vigil-for-montreal-mosque-vandalized-after-quebec-city-attack-2/</guid>
+		<description><![CDATA[Fri, Feb 3: A vigil is being held in Montreal in solidarity with members of a mosque in Montrealâ€™s Pointe-Saint-Charles borough that was vandalized just days after six people were killed in Quebec City. Global&#8217;s Navneet Pall reports.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227304&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Fri, Feb 3: A vigil is being held in Montreal in solidarity with members of a mosque in Montrealâ€™s Pointe-Saint-Charles borough that was vandalized just days after six people were killed in Quebec City. Global&#8217;s Navneet Pall reports.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227304&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+		<enclosure url="http://i1.wp.com/media.globalnews.ca/videostatic/218/299/Vandals_Mezz_848x480_869963331611.jpg?w=150&#038;quality=70&#038;strip=all" length="27435000"  type="image/jpeg"/>
+		<media:content url="http://2.gravatar.com/avatar/8251f0bafbb9279f01593c4eb6ac239c?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">navpallglobalnews</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Pointe-Saint-Charles residents rally to support Khadijah Mosque after vandalism</title>
+		<link>http://globalnews.ca/news/3227109/pointe-saint-charles-residents-rally-to-support-khadijah-mosque-after-vandalism/</link>
+		<comments>http://globalnews.ca/news/3227109/pointe-saint-charles-residents-rally-to-support-khadijah-mosque-after-vandalism/#respond</comments>
+		<pubDate>Sat, 04 Feb 2017 03:52:17 +0000</pubDate>
+		<dc:creator><![CDATA[Navneet Pall]]></dc:creator>
+				<category><![CDATA[Canada]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Christopher Forester]]></category>
+		<category><![CDATA[City Councillor]]></category>
+		<category><![CDATA[Craig Sauve]]></category>
+		<category><![CDATA[Funeral]]></category>
+		<category><![CDATA[Khadijah Mosque]]></category>
+		<category><![CDATA[Montreal Police]]></category>
+		<category><![CDATA[mosque shooting]]></category>
+		<category><![CDATA[MP Marc Miller]]></category>
+		<category><![CDATA[Pointe Saint-Charles]]></category>
+		<category><![CDATA[Projet MontrÃ©al leader ValÃ©rie Plante]]></category>
+		<category><![CDATA[Quebec City]]></category>
+		<category><![CDATA[South West borough mayor Benoit Dorais]]></category>
+		<category><![CDATA[SPVM]]></category>
+		<category><![CDATA[Vandalism]]></category>
+		<category><![CDATA[Victims]]></category>
+		<category><![CDATA[Wilma Cobb]]></category>
+
+		<guid isPermaLink="false">http://globalnews.ca/?p=3227109</guid>
+		<description><![CDATA[Some of the mosque's members were at the funeral for the victims of the Quebec City mosque shooting when they were told that their own mosque was vandalized. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227109&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[Some of the mosque's members were at the funeral for the victims of the Quebec City mosque shooting when they were told that their own mosque was vandalized. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=globalnews.ca&#038;blog=43869434&#038;post=3227109&#038;subd=shawglobalnews&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://globalnews.ca/news/3227109/pointe-saint-charles-residents-rally-to-support-khadijah-mosque-after-vandalism/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="https://shawglobalnews.files.wordpress.com/2017/02/mosque-rally.jpg?quality=70&#038;strip=all&#038;w=720&#038;h=480&#038;crop=1" length="27238000"  type="image/jpeg"/>
+		<media:thumbnail url="http://shawglobalnews.files.wordpress.com/2017/02/mosque-rally.jpg?quality=70&#038;strip=all" />
+		<media:content url="http://shawglobalnews.files.wordpress.com/2017/02/mosque-rally.jpg?quality=70&#038;strip=all" medium="image">
+			<media:title type="html">mosque-rally</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/8251f0bafbb9279f01593c4eb6ac239c?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">navpallglobalnews</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
