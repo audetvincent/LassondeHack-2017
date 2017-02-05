@@ -2,7 +2,7 @@
     <sebm-google-map-marker (markerClick)="markerClick()" *ngFor="let event of events" [latitude]="event.location.latitude" [longitude]="event.location.longitude">
         <sebm-google-map-info-window [disableAutoPan]="true">
          <h1>{{ event.name }}</h1>
-         <h2>{{ event.startDate }}</h2>
+         <h2>{{ event.startDate | date:'medium' }}</h2>
          <p>{{ event.description }}</p>
          <a href="{{ event.link }}">{{ event.link }}</a>
        </sebm-google-map-info-window>

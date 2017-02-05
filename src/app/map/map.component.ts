@@ -10,6 +10,7 @@ import { EventService } from '../event.service';
 export class MapComponent implements OnInit {
     events: Event[];
     startDate: Date;
+    endDate: Date;
     lat: number = 45.5;
     lng: number = -73.6;
     zoom: number = 12;
@@ -20,6 +21,7 @@ export class MapComponent implements OnInit {
     constructor(private eventService: EventService) {
         this.events = new Array<Event>();
         this.startDate = new Date();
+        this.endDate = new Date();
     }
 
 
@@ -32,11 +34,16 @@ export class MapComponent implements OnInit {
 
     updateData(startDate: Date, endDate: Date) : void {
         this.startDate = startDate;
+        this.endDate = endDate;
         this.eventService.getEvents(startDate, endDate)
         .subscribe(result => {
             this.events = new Array<Event>();
             for(let e in result) {
-                if(new Date(result[e].startDate) > new Date(this.startDate.toISOString()))
+                if((    new Date(result[e].startDate) > new Date(this.startDate.toISOString()) 
+                     || (result[e].endDate != null 
+                     && new Date(result[e].endDate) > new Date(this.startDate.toISOString())))
+                     && new Date(result[e].startDate) < new Date(this.endDate.toISOString())
+                    )
                     this.events.push(result[e]);
             }
             console.log(this.events);

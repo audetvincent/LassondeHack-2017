@@ -1,7 +1,9 @@
 <div style="text-align: center">
-    <h1>Paramètres</h1>
+    <h1>Settings</h1>
     <div style="display: inline-block; min-height: 290px;">
+        <h2>Begin:</h2>
         <datepicker [(ngModel)]="startDate" (click)="dateChanged()" [dateDisabled]="dateDisabled"></datepicker>
+        <h2>End:</h2>
         <datepicker [(ngModel)]="endDate" (click)="dateChanged()" [dateDisabled]="dateDisabled"></datepicker>
     </div>
     <!--
