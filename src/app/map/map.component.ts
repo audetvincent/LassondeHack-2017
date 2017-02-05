@@ -9,6 +9,7 @@ import { EventService } from '../event.service';
 })
 export class MapComponent implements OnInit {
     events: Event[];
+    startDate: Date;
     lat: number = 45.5;
     lng: number = -73.6;
     zoom: number = 12;
@@ -18,6 +19,7 @@ export class MapComponent implements OnInit {
     
     constructor(private eventService: EventService) {
         this.events = new Array<Event>();
+        this.startDate = new Date();
     }
 
 
@@ -25,12 +27,19 @@ export class MapComponent implements OnInit {
         this.eventService.getAllEvents()
         .subscribe(result => {
             this.events = result;
-            console.log(this.events);
         });
     }
 
     updateData(startDate: Date, endDate: Date) : void {
+        this.startDate = startDate;
         this.eventService.getEvents(startDate, endDate)
-        .subscribe(result => this.events = result);
+        .subscribe(result => {
+            this.events = new Array<Event>();
+            for(let e in result) {
+                if(new Date(result[e].startDate) > new Date(this.startDate.toISOString()))
+                    this.events.push(result[e]);
+            }
+            console.log(this.events);
+        });
     }
 }
