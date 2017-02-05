@@ -1,0 +1,16 @@
+<div style="text-align: center">
+    <h1>Paramètres</h1>
+    <div style="display: inline-block; min-height: 290px;">
+        <datepicker [(ngModel)]="startDate" (click)="dateChanged()" [dateDisabled]="dateDisabled"></datepicker>
+        <datepicker [(ngModel)]="endDate" (click)="dateChanged()" [dateDisabled]="dateDisabled"></datepicker>
+    </div>
+    <!--
+    <div class="checkbox">
+        <ul style="text-align: left;">
+            <li><label><input type="checkbox" value="musique">Musique</label></li>
+            <li><label><input type="checkbox" value="arts">Arts</label></li>
+            <li><label><input type="checkbox" value="humour">Humour</label></li>
+        </ul>
+    </div>
+    -->
+</div>
